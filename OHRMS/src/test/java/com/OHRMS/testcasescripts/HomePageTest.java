@@ -42,7 +42,7 @@ public class HomePageTest extends Baseclass{
 	
 	@AfterMethod
 	public void teardown(){
-		driver.quit();
+		//driver.quit();
 		
 	}
 	
